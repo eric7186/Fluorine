@@ -1,14 +1,14 @@
-=== WP Plugin Starter ===
-Contributors: shivapoudel
-Tags: custom-plugin, wp-scripts-ready, plugin-starter, translation-ready, rtl-support
-Requires at least: 5.3
-Tested up to: 5.6
-Requires PHP: 5.6.20
+=== WP Plugin Fluorine ===
+Contributors: Eric Thomson
+Tags: Blocks, Grids Tailwind, wp-scripts-ready, plugin-starter, translation-ready, rtl-support
+Requires at least: 5.9
+Tested up to: 5.9.3
+Requires PHP: 7.4.1
 Stable tag: 1.0
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-A starter plugin to to bootstrap your next WordPress plugin development.
+A plugin to to allow CSS Grid, Flexbox,  and Tailspin utility classes to be used with blocks.
 
 == Description ==
 
